@@ -31,7 +31,7 @@ I have used HTML,CSS,Bootstrap.
 
 - Twitter: [@imprivado](https://twitter.com/imprivado)
 
-- LinkedIn: [Iván Martínez von Halle] (https://www.linkedin.com/in/ivan-martinez-von-halle/)
+- LinkedIn: [Iván Martínez von Halle](https://www.linkedin.com/in/ivan-martinez-von-halle/)
 
 
 
