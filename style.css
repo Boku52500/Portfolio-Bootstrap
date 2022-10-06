@@ -69,4 +69,19 @@
   background-size: cover;
 }
 
+.btnn {
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  margin-top: 40px;
+  border-radius: 8px;
+  color: var(--projectButtonColor);
+  background-color: var(--projBackground);
+  border: 0.5px solid var(--projectButtonColor);
+  transition: 0.6s;
+  font-family: var(--projFont-1-Pop);
+  font-size: 17px;
+  font-weight: 550;
+  line-height: 24px;
+}
 
